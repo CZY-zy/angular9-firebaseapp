@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular9-firebaseapp"
+  "defaultProject": "angular9-firebaseapp",
+  "cli": {
+    "analytics": "552ec137-a185-48df-99d4-7bcfe5f41fb6"
+  }
 }

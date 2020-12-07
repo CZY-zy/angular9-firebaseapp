@@ -1,0 +1,50 @@
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background: black;
+    color: white;
+    font-size: 22px;
+}
+
+.row {
+    margin: auto;
+    text-align: center;
+}
+
+.form-control {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.form-control:hover {
+    border-color: lightskyblue;
+}
+
+.btn{
+    background-color: lightskyblue;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    border-color: lightblue;
+    margin-top: 20px;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.card{
+    border-color: black;
+    border-style: solid;
+    max-width: 350px;
+    max-height: 600px;
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+}
